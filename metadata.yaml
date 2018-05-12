@@ -1,10 +1,16 @@
 _repo: Discourses-of-Keidansky_46701
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46701-h/images/cover.jpg
 creator:
   author:
     agent_name: Richards, Bernard G.
     gutenberg_agent_id: '43909'
     url: http://www.gutenberg.org/2009/agents/43909
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46701#Discourses-of-Keidansky
 gutenberg_issued: '2014-08-27'
 gutenberg_type: Text
 identifiers:
